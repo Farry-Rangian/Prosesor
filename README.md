@@ -1,0 +1,2 @@
+# Prosesor
+Apa itu Prosesor
